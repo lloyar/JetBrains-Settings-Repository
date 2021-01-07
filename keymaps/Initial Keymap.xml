@@ -1,5 +1,17 @@
 <keymap version="1" name="Initial Keymap">
   <action id="ActivateFindToolWindow" />
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
@@ -7,8 +19,14 @@
   <action id="FocusEditor">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
+  <action id="Images.Thumbnails.EnterAction">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="NavBar-cancel" />
   <action id="PopupMenu-cancel" />
+  <action id="SearchEverywhere.SelectItem">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
