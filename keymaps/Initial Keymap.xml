@@ -1,4 +1,4 @@
-<keymap version="1" name="Initial Keymap" parent="Mac OS X 10.5+">
+<keymap version="1" name="Initial Keymap">
   <action id="ActivateFindToolWindow" />
   <action id="FileChooser.GotoModule" />
 </keymap>
