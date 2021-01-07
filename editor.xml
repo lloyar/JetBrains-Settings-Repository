@@ -6,4 +6,9 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;MARK - )(\W|$)(.*)" />
+    <pattern icon="important" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG - )(\W|$)(.*)" />
+    <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO - )(\W|$)(.*)" />
+  </component>
 </application>
