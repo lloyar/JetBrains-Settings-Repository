@@ -27,6 +27,11 @@
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;MARK - )(\W|$)(.*)" />
+    <pattern icon="important" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG - )(\W|$)(.*)" />
+    <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO - )(\W|$)(.*)" />
+  </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
   </component>
