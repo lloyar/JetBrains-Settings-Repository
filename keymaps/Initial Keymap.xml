@@ -16,7 +16,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="back_space" second-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
