@@ -1,19 +1,40 @@
 <keymap version="1" name="Initial Keymap">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ActivateFindToolWindow" />
+  <action id="BraceOrQuoteOut">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="Console.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" second-keystroke="shift back_space" />
+  </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FocusEditor">
@@ -22,10 +43,35 @@
   <action id="Images.Thumbnails.EnterAction">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Images.Thumbnails.UpFolder">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="NavBar-cancel" />
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="NextTemplateParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="PopupMenu-cancel" />
+  <action id="RiderUnitTestRemoveElementsFromSessionTwAction">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SearchEverywhere.NextTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="SearchEverywhere.SelectItem">
     <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SelectVirtualTemplateElement">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="escape" />
