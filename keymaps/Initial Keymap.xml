@@ -73,6 +73,9 @@
   <action id="SelectVirtualTemplateElement">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
