@@ -37,7 +37,6 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorEnter">
@@ -49,11 +48,16 @@
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="FileChooser.GotoModule" />
@@ -98,5 +102,11 @@
   </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="Vcs.Log.GoToChild">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Vcs.Log.GoToParent">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
 </keymap>
