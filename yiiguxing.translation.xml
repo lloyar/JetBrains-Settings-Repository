@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descendants" />
+      <item value="recalculated" />
+      <item value="performance" />
       <item value="Interface for tagging graph nodes. Tag based searches can be performed using the {@link GraphNodefindByTag} function." />
       <item value="searches" />
       <item value="When an entity that has properties that contain references to other entities within its subtree is duplicated, the expectation of the user is likely that those properties will be updated to point to the corresponding entities within the newly-created duplicate subtree." />
@@ -38,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
