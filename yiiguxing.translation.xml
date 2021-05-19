@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatibility" />
+      <item value="Backwards" />
+      <item value="Previously" />
       <item value="A scene is graphical representation of an environment." />
       <item value="graphical" />
       <item value="erase" />
@@ -48,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
