@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="amount" />
       <item value="destination" />
+      <item value="amount" />
       <item value="Handles the creation of the loading screen of the application. A script can subscribe to the events of a {@link Application} to show a loading screen, progress bar etc. In order for this to work you need to set the project's loading screen script to the script that calls this method." />
       <item value="This function is called internally by PlayCanvas applications made in the Editor but you will need to call start yourself if you are using the engine stand-alone." />
       <item value="create tick function to be wrapped in closure" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
