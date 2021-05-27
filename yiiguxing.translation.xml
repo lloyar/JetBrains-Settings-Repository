@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omni" />
+      <item value="hemisphere" />
+      <item value="simulate" />
       <item value="destination" />
       <item value="amount" />
       <item value="Handles the creation of the loading screen of the application. A script can subscribe to the events of a {@link Application} to show a loading screen, progress bar etc. In order for this to work you need to set the project's loading screen script to the script that calls this method." />
@@ -48,19 +51,17 @@
       <item value="registry" />
       <item value="PROPERTIES" />
       <item value="Below" />
-      <item value="created" />
-      <item value="verbosely" />
-      <item value="implements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="81" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621337337986" />
+    <option name="lastTrimTime" value="1622107880282" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
