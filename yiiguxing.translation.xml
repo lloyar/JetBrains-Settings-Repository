@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TODO (abelnation): update vAreaShadowCoord with area light info" />
+      <item value="Offsetting the position used for querying occlusion along the world normal can be used to reduce shadow acne." />
       <item value="omni" />
       <item value="hemisphere" />
       <item value="simulate" />
@@ -49,19 +51,17 @@
       <item value="localization" />
       <item value="application" />
       <item value="registry" />
-      <item value="PROPERTIES" />
-      <item value="Below" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622107880282" />
+    <option name="lastTrimTime" value="1623895520453" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
