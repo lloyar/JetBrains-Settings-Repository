@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
+      <item value="accumulating" />
+      <item value="semi-static" />
+      <item value="semi" />
+      <item value="To use, simply construct a `ProgressiveLightMap` object, `plmap.addObjectsToLightMap(object)` an array of semi-static objects and lights to the class once, and then call `plmap.update(camera)` every frame to begin accumulating lighting samples." />
+      <item value="Progressive Light Map Accumulator, by [zalo](https:github.comzalo)" />
       <item value="progressive" />
       <item value="opaque Objects" />
       <item value="Parrot" />
@@ -45,17 +51,11 @@
       <item value="When an entity that has properties that contain references to other entities within its subtree is duplicated, the expectation of the user is likely that those properties will be updated to point to the corresponding entities within the newly-created duplicate subtree." />
       <item value="Components are specific to an instance of an Entity and are attached" />
       <item value="The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior." />
-      <item value="The Entity uniquely identifies the object and also provides a transform for position and orientation which it inherits from {@link GraphNode} so can be added into the scene graph. The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior. e.g. the ability to render a model or play a sound. Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`) ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
-      <item value="inherits" />
-      <item value="respective" />
-      <item value="Scope" />
-      <item value="chaining" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
