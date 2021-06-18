@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This function renders each mesh one at a time into their respective surface maps" />
+      <item value="This function renders each mesh one at a time into their respective surface maps @param {Camera} camera Standard Rendering Camera @param {number} blendWindow When &gt;1, samples will accumulate over time. @param {boolean} blurEdges Whether to fix UV Edges via blurring" />
+      <item value="Pack the objects' lightmap UVs into the same global space" />
       <item value="If this object is a light, simply add it to the internal scene" />
       <item value="Prepare list of UV bounding boxes for packing later..." />
       <item value="jittering" />
@@ -48,14 +51,11 @@
       <item value="Backwards" />
       <item value="Previously" />
       <item value="A scene is graphical representation of an environment." />
-      <item value="graphical" />
-      <item value="erase" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
