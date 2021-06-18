@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If this object is a light, simply add it to the internal scene" />
+      <item value="Prepare list of UV bounding boxes for packing later..." />
       <item value="jittering" />
       <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
       <item value="`plmap.update(camera)` every frame to begin accumulating lighting samples." />
@@ -49,13 +51,11 @@
       <item value="graphical" />
       <item value="erase" />
       <item value="scope" />
-      <item value="internal" />
-      <item value="Accessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
