@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Draw the lightmap in the main scene. Call this after adding the objects to it." />
+      <item value="Draw the lightmap in the main scene. Call this after adding the objects to it. @param {boolean} visible Whether the debug plane should be visible @param {Vector3} position Where the debug plane should be drawn" />
       <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
       <item value="Progressive Light Map Accumulator, by [zalo](https:github.comzalo) To use, simply construct a `ProgressiveLightMap` object, `plmap.addObjectsToLightMap(object)` an array of semi-static objects and lights to the class once, and then call `plmap.update(camera)` every frame to begin accumulating lighting samples." />
       <item value="accumulating" />
@@ -49,13 +51,11 @@
       <item value="performance" />
       <item value="Interface for tagging graph nodes. Tag based searches can be performed using the {@link GraphNodefindByTag} function." />
       <item value="searches" />
-      <item value="When an entity that has properties that contain references to other entities within its subtree is duplicated, the expectation of the user is likely that those properties will be updated to point to the corresponding entities within the newly-created duplicate subtree." />
-      <item value="Components are specific to an instance of an Entity and are attached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
