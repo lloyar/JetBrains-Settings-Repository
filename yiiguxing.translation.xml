@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="progressive" />
       <item value="opaque Objects" />
       <item value="Parrot" />
       <item value="MORPHS" />
@@ -50,12 +51,11 @@
       <item value="Scope" />
       <item value="chaining" />
       <item value="subscribe" />
-      <item value="augments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
