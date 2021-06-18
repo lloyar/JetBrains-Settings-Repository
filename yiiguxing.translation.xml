@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
+      <item value="Progressive Light Map Accumulator, by [zalo](https:github.comzalo) To use, simply construct a `ProgressiveLightMap` object, `plmap.addObjectsToLightMap(object)` an array of semi-static objects and lights to the class once, and then call `plmap.update(camera)` every frame to begin accumulating lighting samples." />
       <item value="accumulating" />
       <item value="semi-static" />
       <item value="semi" />
@@ -50,12 +51,11 @@
       <item value="searches" />
       <item value="When an entity that has properties that contain references to other entities within its subtree is duplicated, the expectation of the user is likely that those properties will be updated to point to the corresponding entities within the newly-created duplicate subtree." />
       <item value="Components are specific to an instance of an Entity and are attached" />
-      <item value="The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
