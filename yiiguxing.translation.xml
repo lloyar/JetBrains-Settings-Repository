@@ -1,14 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The blurring plane applies blur to the seams of the lightmap" />
-      <item value="Inject some spicy new logic into a standard phong material" />
+      <item value="Restore the object's Real-time Material and add it back to the original world" />
       <item value="Set each object's material to the UV Unwrapped Surface Mapping Version" />
+      <item value="The blurring plane applies blur to the seams of the lightmap" />
+      <item value="Steal the Object3D from the real world to our special dimension" />
+      <item value="A tiny JavaScript function for packing 2D rectangles into a near-square container, which is useful for generating CSS sprites and WebGL textures. Similar to [shelf-pack](https:github.commapboxshelf-pack), but static (you can't add items once a layout is generated), and aims for maximal space utilization." />
+      <item value="Pack the objects' lightmap UVs into the same global space" />
+      <item value="Prepare list of UV bounding boxes for packing later..." />
+      <item value="Inject some spicy new logic into a standard phong material" />
       <item value="This function renders each mesh one at a time into their respective surface maps" />
       <item value="This function renders each mesh one at a time into their respective surface maps @param {Camera} camera Standard Rendering Camera @param {number} blendWindow When &gt;1, samples will accumulate over time. @param {boolean} blurEdges Whether to fix UV Edges via blurring" />
-      <item value="Pack the objects' lightmap UVs into the same global space" />
       <item value="If this object is a light, simply add it to the internal scene" />
-      <item value="Prepare list of UV bounding boxes for packing later..." />
       <item value="jittering" />
       <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
       <item value="`plmap.update(camera)` every frame to begin accumulating lighting samples." />
@@ -48,14 +51,11 @@
       <item value="tone" />
       <item value="rebuild" />
       <item value="True means only semi-transparent objects are rendered, and false means opaque." />
-      <item value="The graphics device used to manage this layer composition. If it is not provided, a device is obtained" />
-      <item value="fed" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
