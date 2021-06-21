@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The blurring plane applies blur to the seams of the lightmap" />
+      <item value="Inject some spicy new logic into a standard phong material" />
       <item value="Set each object's material to the UV Unwrapped Surface Mapping Version" />
       <item value="This function renders each mesh one at a time into their respective surface maps" />
       <item value="This function renders each mesh one at a time into their respective surface maps @param {Camera} camera Standard Rendering Camera @param {number} blendWindow When &gt;1, samples will accumulate over time. @param {boolean} blurEdges Whether to fix UV Edges via blurring" />
@@ -49,13 +51,11 @@
       <item value="The graphics device used to manage this layer composition. If it is not provided, a device is obtained" />
       <item value="fed" />
       <item value="compatibility" />
-      <item value="Backwards" />
-      <item value="Previously" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
