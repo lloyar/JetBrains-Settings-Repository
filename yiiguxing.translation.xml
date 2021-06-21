@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frustum" />
       <item value="Restore the object's Real-time Material and add it back to the original world" />
       <item value="Set each object's material to the UV Unwrapped Surface Mapping Version" />
       <item value="The blurring plane applies blur to the seams of the lightmap" />
@@ -50,12 +51,11 @@
       <item value="precision" />
       <item value="tone" />
       <item value="rebuild" />
-      <item value="True means only semi-transparent objects are rendered, and false means opaque." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
