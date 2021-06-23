@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phong related variables" />
       <item value="TODO: Support all kinds of transform" />
       <item value="controls.enableDamping = true; an animation loop is required when either damping or auto-rotation are enabled" />
       <item value="Set each object's material to the UV Unwrapped Surface Mapping Version" />
@@ -50,12 +51,11 @@
       <item value="internally" />
       <item value="Composition" />
       <item value="class representing an entry in the final order of rendering of cameras and layers in the engine this is populated at runtime based on LayerComposition" />
-      <item value="Layer represents a renderable subset of the scene. It can contain a list of mesh instances, lights and cameras, their render settings and also defines custom callbacks before, after or during rendering. Layers are organized inside {@link LayerComposition} in a desired order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
