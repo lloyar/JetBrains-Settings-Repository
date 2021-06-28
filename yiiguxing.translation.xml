@@ -1,69 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Phong related variables" />
-      <item value="TODO: Support all kinds of transform" />
-      <item value="controls.enableDamping = true; an animation loop is required when either damping or auto-rotation are enabled" />
-      <item value="Set each object's material to the UV Unwrapped Surface Mapping Version" />
-      <item value="Render once normally to initialize everything" />
-      <item value="Set the Previous Frame's Texture Buffer and Averaging Window" />
-      <item value="Frustum" />
-      <item value="Restore the object's Real-time Material and add it back to the original world" />
-      <item value="The blurring plane applies blur to the seams of the lightmap" />
-      <item value="Steal the Object3D from the real world to our special dimension" />
-      <item value="A tiny JavaScript function for packing 2D rectangles into a near-square container, which is useful for generating CSS sprites and WebGL textures. Similar to [shelf-pack](https:github.commapboxshelf-pack), but static (you can't add items once a layout is generated), and aims for maximal space utilization." />
-      <item value="Pack the objects' lightmap UVs into the same global space" />
-      <item value="Prepare list of UV bounding boxes for packing later..." />
-      <item value="Inject some spicy new logic into a standard phong material" />
-      <item value="This function renders each mesh one at a time into their respective surface maps" />
-      <item value="This function renders each mesh one at a time into their respective surface maps @param {Camera} camera Standard Rendering Camera @param {number} blendWindow When &gt;1, samples will accumulate over time. @param {boolean} blurEdges Whether to fix UV Edges via blurring" />
-      <item value="If this object is a light, simply add it to the internal scene" />
-      <item value="jittering" />
-      <item value="This should begin accumulating lightmaps which apply to your objects, so you can start jittering lighting to achieve the texture-space effect you're looking for." />
-      <item value="`plmap.update(camera)` every frame to begin accumulating lighting samples." />
-      <item value="To use, simply construct a `ProgressiveLightMap` object," />
-      <item value="Uniform Hemispherical Surface Distribution for Ambient Occlusion" />
-      <item value="Manually Update the Directional Lights" />
-      <item value="Orbit Controls" />
-      <item value="Draw the lightmap in the main scene. Call this after adding the objects to it." />
-      <item value="Draw the lightmap in the main scene. Call this after adding the objects to it. @param {boolean} visible Whether the debug plane should be visible @param {Vector3} position Where the debug plane should be drawn" />
-      <item value="Progressive Light Map Accumulator, by [zalo](https:github.comzalo) To use, simply construct a `ProgressiveLightMap` object, `plmap.addObjectsToLightMap(object)` an array of semi-static objects and lights to the class once, and then call `plmap.update(camera)` every frame to begin accumulating lighting samples." />
-      <item value="accumulating" />
-      <item value="semi-static" />
-      <item value="semi" />
-      <item value="To use, simply construct a `ProgressiveLightMap` object, `plmap.addObjectsToLightMap(object)` an array of semi-static objects and lights to the class once, and then call `plmap.update(camera)` every frame to begin accumulating lighting samples." />
-      <item value="Progressive Light Map Accumulator, by [zalo](https:github.comzalo)" />
-      <item value="progressive" />
-      <item value="opaque Objects" />
-      <item value="Parrot" />
-      <item value="MORPHS" />
-      <item value="TODO (abelnation): update vAreaShadowCoord with area light info" />
-      <item value="Offsetting the position used for querying occlusion along the world normal can be used to reduce shadow acne." />
-      <item value="omni" />
-      <item value="hemisphere" />
-      <item value="simulate" />
-      <item value="destination" />
-      <item value="amount" />
-      <item value="Handles the creation of the loading screen of the application. A script can subscribe to the events of a {@link Application} to show a loading screen, progress bar etc. In order for this to work you need to set the project's loading screen script to the script that calls this method." />
-      <item value="This function is called internally by PlayCanvas applications made in the Editor but you will need to call start yourself if you are using the engine stand-alone." />
-      <item value="create tick function to be wrapped in closure" />
-      <item value="explicitly" />
-      <item value="internally" />
-      <item value="Composition" />
-      <item value="class representing an entry in the final order of rendering of cameras and layers in the engine this is populated at runtime based on LayerComposition" />
+      <item value="verbosely" />
+      <item value="implements" />
+      <item value="robust" />
+      <item value="compact" />
+      <item value="Capsule" />
+      <item value="Destructor" />
+      <item value="Utility functions" />
+      <item value="Utility" />
+      <item value="Extract compression statistics" />
+      <item value="statistics" />
+      <item value="decompression" />
+      <item value="compression" />
+      <item value="purposes" />
+      <item value="serves" />
+      <item value="uniformly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
-        <entry key="LATIN" value="1" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1624419420627" />
-  </component>
-  <component name="Settings">
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
 </application>
