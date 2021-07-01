@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param {string} [name] - The non-unique name of the entity, default is &quot;Untitled&quot;." />
+      <item value="ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
+      <item value="Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`)" />
+      <item value="The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior. e.g. the ability to render a model or play a sound. Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`) ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
+      <item value="The Entity uniquely identifies the object and also provides a transform for position and orientation which it inherits from {@link GraphNode} so can be added into the scene graph." />
       <item value="Roof" />
       <item value="Progressive" />
       <item value="Distribution" />
@@ -35,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
