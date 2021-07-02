@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@classdesc An instance of a {@link Mesh}. A single mesh can be referenced by many mesh instances that can have different transforms and materials." />
+      <item value="@param {RenderComponentSystem} system - The ComponentSystem that created this Component." />
+      <item value="@classdesc Enables an Entity to render a {@link Mesh} or a primitive shape. This component attaches {@link MeshInstance} geometry to the Entity." />
       <item value="@classdesc The forward renderer render scene objects." />
       <item value="@param {string} [name] - The non-unique name of the entity, default is &quot;Untitled&quot;." />
       <item value="ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
