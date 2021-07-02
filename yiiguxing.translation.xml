@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param {VertexBuffer|null} vertexBuffer - Vertex buffer to hold per-instance vertex data (usually world matrices). Pass null to turn off hardware instancing." />
+      <item value="@param {VertexBuffer|null} vertexBuffer - Vertex buffer to hold per-instance vertex data (usually world matrices)." />
+      <item value="@description Sets up {@link MeshInstance} to be rendered using Hardware Instancing." />
+      <item value="Deprecated" />
       <item value="used to apply parameters from this mesh instance into scope of uniforms, called internally by forward-renderer" />
       <item value="a wrapper over settings parameter specifically for realtime baked lightmaps. This handles reference counting of lightmaps and releases them when no longer referenced" />
       <item value="this allows us to automatically release realtime baked lightmaps when mesh instances using them are destroyed" />
@@ -50,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
