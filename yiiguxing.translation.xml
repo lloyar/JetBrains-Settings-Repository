@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="used to apply parameters from this mesh instance into scope of uniforms, called internally by forward-renderer" />
+      <item value="a wrapper over settings parameter specifically for realtime baked lightmaps. This handles reference counting of lightmaps and releases them when no longer referenced" />
+      <item value="this allows us to automatically release realtime baked lightmaps when mesh instances using them are destroyed" />
+      <item value="cache of lightmaps internally created by baking using Lightmapper" />
+      <item value="generates wireframes for an array of mesh instances" />
       <item value="A script you can attach on an entity to test if it is visible on a Layer" />
       <item value="@classdesc An instance of a {@link Mesh}. A single mesh can be referenced by many mesh instances that can have different transforms and materials." />
       <item value="@param {RenderComponentSystem} system - The ComponentSystem that created this Component." />
@@ -45,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
