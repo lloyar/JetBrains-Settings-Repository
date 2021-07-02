@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stop rendering {@link MeshInstance}s without removing them from the scene hierarchy." />
+      <item value="Class used as an entry in the ref-counted skin instance cache" />
+      <item value="map of SkinInstances allowing those to be shared between render components" />
+      <item value="returns already created skin instance from skin, for use on the rootBone ref count of existing skinInstance is increased" />
       <item value="@classdesc Component Systems contain the logic and functionality to update all Components of a particular type." />
       <item value="@classdesc Allows an Entity to render a mesh or a primitive shape like a box, capsule, sphere, cylinder, cone etc." />
       <item value="removes skin instance from the cache. This decreases ref count, and when that reaches 0 it gets destroyed" />
@@ -47,15 +51,11 @@
       <item value="Capsule" />
       <item value="Destructor" />
       <item value="Utility functions" />
-      <item value="Utility" />
-      <item value="Extract compression statistics" />
-      <item value="statistics" />
-      <item value="decompression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
