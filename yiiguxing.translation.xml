@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@classdesc Component Systems contain the logic and functionality to update all Components of a particular type." />
       <item value="@classdesc Allows an Entity to render a mesh or a primitive shape like a box, capsule, sphere, cylinder, cone etc." />
       <item value="removes skin instance from the cache. This decreases ref count, and when that reaches 0 it gets destroyed" />
       <item value="Pass null to turn off hardware instancing." />
@@ -50,12 +51,11 @@
       <item value="Extract compression statistics" />
       <item value="statistics" />
       <item value="decompression" />
-      <item value="compression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
