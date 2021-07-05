@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
+      <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
+      <item value="sync Hierarchy" />
+      <item value="Timing stats" />
+      <item value="Depending on browser add the correct visibiltychange event and store the name of the hidden attribute in this._hiddenAttr." />
+      <item value="@description Get the current application. In the case where there are multiple running applications, the function can get an application based on a supplied canvas id." />
+      <item value="@description Get the current application. In the case where there are multiple running applications, the function can get an application based on a supplied canvas id. This" />
+      <item value="this.tick = makeTick(this); Circular linting issue as makeTick and Application reference each other" />
+      <item value="eslint-disable-next-line no-use-before-define" />
+      <item value="bind tick function to current scope" />
+      <item value="@classdesc Resource handler used for loading {@link Render} resources." />
+      <item value="@param {StandardMaterial} defaultMaterial - The shared default material that is used in any place that a material is not specified." />
       <item value="enable if you want entity type script attributes to not be re-mapped when an entity is cloned" />
       <item value="revision" />
       <item value="Handles localization." />
@@ -39,23 +51,11 @@
       <item value="The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior. e.g. the ability to render a model or play a sound. Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`) ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
       <item value="The Entity uniquely identifies the object and also provides a transform for position and orientation which it inherits from {@link GraphNode} so can be added into the scene graph." />
       <item value="Roof" />
-      <item value="Progressive" />
-      <item value="Distribution" />
-      <item value="orbit" />
-      <item value="Set an update function on the app's update event" />
-      <item value="destroy temporary directional lights as they are costly to keep around" />
-      <item value="configured" />
-      <item value="Create an entity with a spot light component that is configured as a baked light" />
-      <item value="omni" />
-      <item value="Create an entity with a omni light component that is configured as a baked light" />
-      <item value="straight down" />
-      <item value="straight" />
-      <item value="random angle based on directionality, within 10 or 90 degrees from straight down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
