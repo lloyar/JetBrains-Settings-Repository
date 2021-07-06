@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The 8 points of the camera frustum transformed to light space" />
+      <item value="Frustum" />
       <item value="used for stereo" />
       <item value="returns number of extra draw calls to skip - used to skip auto instanced meshes draw calls. by default return 0 to not skip any additional draw calls" />
       <item value="Constants" />
       <item value="Morphing" />
-      <item value="Frustum" />
       <item value="return drawCallB._key[SORTKEY_FORWARD] - drawCallA._key[SORTKEY_FORWARD];" />
       <item value="sortCompare(drawCallA, drawCallB) {" />
       <item value="Static properties used by the Profiler in the Editor's Launch Page" />
@@ -50,12 +51,11 @@
       <item value="this.tick = makeTick(this); Circular linting issue as makeTick and Application reference each other" />
       <item value="eslint-disable-next-line no-use-before-define" />
       <item value="bind tick function to current scope" />
-      <item value="@classdesc Resource handler used for loading {@link Render} resources." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
