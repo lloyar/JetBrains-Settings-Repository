@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="placeholder" />
+      <item value="placeholder texture for area light LUTs" />
+      <item value="@param {GraphicsDevice} graphicsDevice - The graphics device used by the renderer." />
+      <item value="@returns {ProgramLibrary} The program library assigned to the device." />
+      <item value="@description Retrieves the program library assigned to the specified graphics device." />
+      <item value="@param {object} [options] - Options passed when creating the WebGL context. More info {@link https:developer.mozilla.orgen-USdocsWebAPIHTMLCanvasElementgetContext here}." />
+      <item value="@property {HTMLCanvasElement} canvas The canvas DOM element that provides the underlying WebGL context used by the graphics device." />
+      <item value="@property {ScopeSpace} scope The scope namespace for shader attributes and variables. [read only]." />
+      <item value="against" />
+      <item value="against each" />
+      <item value="It is valid to have more than one canvas element per page and create a new graphics device against each." />
+      <item value="valid" />
+      <item value="A graphics device is tied to a specific canvas HTML element." />
+      <item value="@classdesc The graphics device manages the underlying graphics context. It is responsible for submitting render state changes and graphics primitives to the hardware. A graphics" />
+      <item value="@description The 'resizecanvas' event is fired when the canvas is resized." />
+      <item value="@description The maximum supported texture anisotropy setting." />
+      <item value="@description The maximum supported dimension of a cube map." />
+      <item value="@description The highest shader precision supported by this graphics device. Can be 'hiphp', 'mediump' or 'lowp'." />
+      <item value="@name GraphicsDeviceprecision" />
+      <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
       <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
       <item value="@param {GraphicsDevice} [graphicsDevice] - The graphics device used to manage this layer composition. If it is not provided, a device is obtained" />
       <item value="@classdesc Layer Composition is a collection of {@link Layer} that is fed to {@link Scenelayers} to define rendering order." />
@@ -14,7 +34,6 @@
       <item value="geometry" />
       <item value="@classdesc Enables an Entity to render a {@link Mesh} or a primitive shape. This component attaches {@link MeshInstance} geometry to the Entity." />
       <item value="@param {object} [data] - The initialization data for the specific component type. Refer to each specific component's API reference page for details on valid values for this parameter." />
-      <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
       <item value="sync Hierarchy" />
       <item value="Timing stats" />
       <item value="Depending on browser add the correct visibiltychange event and store the name of the hidden attribute in this._hiddenAttr." />
@@ -32,30 +51,11 @@
       <item value="@description Set to true to render the scene on the next iteration of the main loop." />
       <item value="@description The graphics device used by the application." />
       <item value="Clamps per-frame delta time to an upper bound. Useful since returning from a tab deactivation can generate huge values for dt, which can adversely affect game state." />
-      <item value="tone mapping" />
-      <item value="An Application represents and manages your PlayCanvas application." />
-      <item value="removes skin instance from the cache. This decreases ref count, and when that reaches 0 it gets destroyed" />
-      <item value="map of SkinInstances allowing those to be shared between render components (specifically a single glb with multiple render components) maps rootBone to an array of SkinInstanceCachedObject this allows to find if a skin instance already exists for a rootbone, and a specific skin" />
-      <item value="returns already created skin instance from skin, for use on the rootBone ref count of existing skinInstance is increased" />
-      <item value="Stop rendering {@link MeshInstance}s without removing them from the scene hierarchy." />
-      <item value="Class used as an entry in the ref-counted skin instance cache" />
-      <item value="map of SkinInstances allowing those to be shared between render components" />
-      <item value="@classdesc Component Systems contain the logic and functionality to update all Components of a particular type." />
-      <item value="@classdesc Allows an Entity to render a mesh or a primitive shape like a box, capsule, sphere, cylinder, cone etc." />
-      <item value="Pass null to turn off hardware instancing." />
-      <item value="@param {VertexBuffer|null} vertexBuffer - Vertex buffer to hold per-instance vertex data (usually world matrices)." />
-      <item value="@param {VertexBuffer|null} vertexBuffer - Vertex buffer to hold per-instance vertex data (usually world matrices). Pass null to turn off hardware instancing." />
-      <item value="@description Sets up {@link MeshInstance} to be rendered using Hardware Instancing." />
-      <item value="Deprecated" />
-      <item value="used to apply parameters from this mesh instance into scope of uniforms, called internally by forward-renderer" />
-      <item value="a wrapper over settings parameter specifically for realtime baked lightmaps. This handles reference counting of lightmaps and releases them when no longer referenced" />
-      <item value="this allows us to automatically release realtime baked lightmaps when mesh instances using them are destroyed" />
-      <item value="cache of lightmaps internally created by baking using Lightmapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
