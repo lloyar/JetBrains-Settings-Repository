@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@property {Asset[]|number[]} materialAssets The material assets that will be used to render the meshes. Each material corresponds to the respective mesh instance." />
+      <item value="@property {Asset|number} asset The render asset for the render component (only applies to type 'asset') - can also be an asset id." />
+      <item value="geometry" />
+      <item value="@classdesc Enables an Entity to render a {@link Mesh} or a primitive shape. This component attaches {@link MeshInstance} geometry to the Entity." />
+      <item value="@param {object} [data] - The initialization data for the specific component type. Refer to each specific component's API reference page for details on valid values for this parameter." />
       <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
       <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
       <item value="sync Hierarchy" />
@@ -43,24 +48,19 @@
       <item value="A script you can attach on an entity to test if it is visible on a Layer" />
       <item value="@classdesc An instance of a {@link Mesh}. A single mesh can be referenced by many mesh instances that can have different transforms and materials." />
       <item value="@param {RenderComponentSystem} system - The ComponentSystem that created this Component." />
-      <item value="@classdesc Enables an Entity to render a {@link Mesh} or a primitive shape. This component attaches {@link MeshInstance} geometry to the Entity." />
       <item value="@classdesc The forward renderer render scene objects." />
       <item value="@param {string} [name] - The non-unique name of the entity, default is &quot;Untitled&quot;." />
       <item value="ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
-      <item value="Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`)" />
-      <item value="The Component and ComponentSystem provide the logic to give an Entity a specific type of behavior. e.g. the ability to render a model or play a sound. Components are specific to an instance of an Entity and are attached (e.g. `this.entity.model`) ComponentSystems allow access to all Entities and Components and are attached to the {@link Application}." />
-      <item value="The Entity uniquely identifies the object and also provides a transform for position and orientation which it inherits from {@link GraphNode} so can be added into the scene graph." />
-      <item value="Roof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625123538836" />
+    <option name="lastTrimTime" value="1625556820815" />
   </component>
 </application>
