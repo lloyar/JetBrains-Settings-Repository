@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="render shadows for all local visible lights - these shadow maps are shared by all cameras" />
+      <item value="update Clusters" />
+      <item value="visibility culling of lights, meshInstances, shadows casters after this the scene culling is done and script callbacks can be called to report which objects are visible" />
+      <item value="TODO: reuse with the same staticLightHash" />
+      <item value="Generate static lighting for meshes in this layer if needed" />
+      <item value="update the skybox, since this might change _meshInstances" />
       <item value="The 8 points of the camera frustum transformed to light space" />
       <item value="Frustum" />
       <item value="used for stereo" />
@@ -45,17 +51,11 @@
       <item value="@param {object} [data] - The initialization data for the specific component type. Refer to each specific component's API reference page for details on valid values for this parameter." />
       <item value="sync Hierarchy" />
       <item value="Timing stats" />
-      <item value="Depending on browser add the correct visibiltychange event and store the name of the hidden attribute in this._hiddenAttr." />
-      <item value="@description Get the current application. In the case where there are multiple running applications, the function can get an application based on a supplied canvas id." />
-      <item value="@description Get the current application. In the case where there are multiple running applications, the function can get an application based on a supplied canvas id. This" />
-      <item value="this.tick = makeTick(this); Circular linting issue as makeTick and Application reference each other" />
-      <item value="eslint-disable-next-line no-use-before-define" />
-      <item value="bind tick function to current scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
