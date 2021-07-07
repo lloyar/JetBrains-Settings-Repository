@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispatch" />
+      <item value="Cascades" />
+      <item value="fix accessing non-existing shadow mapcamera when the light was createdapplied, but shadowmap was never initialized" />
       <item value="heart texture's alpha channel as a cookie texture" />
       <item value="render shadows for all local visible lights - these shadow maps are shared by all cameras" />
       <item value="update Clusters" />
@@ -48,14 +51,11 @@
       <item value="@property {Asset[]|number[]} materialAssets The material assets that will be used to render the meshes. Each material corresponds to the respective mesh instance." />
       <item value="@property {Asset|number} asset The render asset for the render component (only applies to type 'asset') - can also be an asset id." />
       <item value="geometry" />
-      <item value="@classdesc Enables an Entity to render a {@link Mesh} or a primitive shape. This component attaches {@link MeshInstance} geometry to the Entity." />
-      <item value="@param {object} [data] - The initialization data for the specific component type. Refer to each specific component's API reference page for details on valid values for this parameter." />
-      <item value="sync Hierarchy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
