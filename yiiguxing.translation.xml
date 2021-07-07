@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directional" />
+      <item value="directional shadows are per camera, so get appropriate render data" />
+      <item value="appropriate" />
       <item value="dispatch" />
       <item value="Cascades" />
       <item value="fix accessing non-existing shadow mapcamera when the light was createdapplied, but shadowmap was never initialized" />
@@ -48,14 +51,11 @@
       <item value="@param {object} options - Object for passing optional arguments. These arguments are the same as properties of the Layer." />
       <item value="@classdesc Layer represents a renderable subset of the scene. It can contain a list of mesh instances, lights and cameras, their render settings and also defines custom callbacks before, after or during rendering." />
       <item value="@classdesc Layer represents a renderable subset of the scene. It can contain a list of mesh instances, lights and cameras, their render settings and also defines custom callbacks before, after or during rendering. Layers are organized inside {@link LayerComposition} in a desired order." />
-      <item value="@property {Asset[]|number[]} materialAssets The material assets that will be used to render the meshes. Each material corresponds to the respective mesh instance." />
-      <item value="@property {Asset|number} asset The render asset for the render component (only applies to type 'asset') - can also be an asset id." />
-      <item value="geometry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
