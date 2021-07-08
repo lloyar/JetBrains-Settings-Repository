@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description The shadow map is regenerated every frame." />
+      <item value="@description The shadow map is regenerated this frame and not on subsequent frames." />
       <item value="Sort shadow casters" />
       <item value="set basic material statesparameters" />
       <item value="num Shadow Modes" />
@@ -49,13 +51,11 @@
       <item value="@name GraphicsDeviceprecision" />
       <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
       <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
-      <item value="@param {GraphicsDevice} [graphicsDevice] - The graphics device used to manage this layer composition. If it is not provided, a device is obtained" />
-      <item value="@classdesc Layer Composition is a collection of {@link Layer} that is fed to {@link Scenelayers} to define rendering order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
