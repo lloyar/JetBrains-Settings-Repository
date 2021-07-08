@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sort shadow casters" />
+      <item value="set basic material statesparameters" />
+      <item value="num Shadow Modes" />
+      <item value="casters" />
+      <item value="cascade" />
       <item value="directional" />
       <item value="directional shadows are per camera, so get appropriate render data" />
       <item value="appropriate" />
@@ -46,17 +51,13 @@
       <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
       <item value="@param {GraphicsDevice} [graphicsDevice] - The graphics device used to manage this layer composition. If it is not provided, a device is obtained" />
       <item value="@classdesc Layer Composition is a collection of {@link Layer} that is fed to {@link Scenelayers} to define rendering order." />
-      <item value="Composition" />
-      <item value="Layers are organized inside {@link LayerComposition} in a desired order." />
-      <item value="@param {object} options - Object for passing optional arguments. These arguments are the same as properties of the Layer." />
-      <item value="@classdesc Layer represents a renderable subset of the scene. It can contain a list of mesh instances, lights and cameras, their render settings and also defines custom callbacks before, after or during rendering." />
-      <item value="@classdesc Layer represents a renderable subset of the scene. It can contain a list of mesh instances, lights and cameras, their render settings and also defines custom callbacks before, after or during rendering. Layers are organized inside {@link LayerComposition} in a desired order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="LATIN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
