@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generates and applies the lightmaps." />
       <item value="{@link BAKE_COLOR}: single color lightmap" />
       <item value="@param {Entity[]|null} nodes - An array of entities (with model or render components) to render lightmaps for. If not supplied, the entire scene will be baked." />
       <item value="prepare Shadow Casters" />
@@ -50,12 +51,11 @@
       <item value="update Clusters" />
       <item value="visibility culling of lights, meshInstances, shadows casters after this the scene culling is done and script callbacks can be called to report which objects are visible" />
       <item value="TODO: reuse with the same staticLightHash" />
-      <item value="Generate static lighting for meshes in this layer if needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
