@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Revert temp frame stuff" />
       <item value="render shadows for all local visible lights - these shadow maps are shared by all cameras" />
       <item value="@description The shadow map is regenerated this frame and not on subsequent frames." />
       <item value="@description The shadow map is regenerated every frame." />
@@ -50,12 +51,11 @@
       <item value="@description The highest shader precision supported by this graphics device. Can be 'hiphp', 'mediump' or 'lowp'." />
       <item value="@name GraphicsDeviceprecision" />
       <item value="This function is called internally in the application's main loop and does not need to be called explicitly." />
-      <item value="@description Render the application's scene. More specifically, the scene's {@link LayerComposition} is rendered by the application's {@link ForwardRenderer}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
