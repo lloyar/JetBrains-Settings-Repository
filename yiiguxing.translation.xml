@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="@param {Scene} scene - The scene to lightmap." />
+      <item value="@classdesc The lightmapper is used to bake scene lights into textures." />
+      <item value="@param {GraphicsDevice} device - The grahpics device used by the lightmapper." />
       <item value="@param {Entity} root - The root entity of the scene." />
+      <item value="@param {Scene} scene - The scene to lightmap." />
+      <item value="@param {AssetRegistry} assets - Registry of assets to lightmap." />
       <item value="destroy temporary directional lights as they are costly to keep around" />
       <item value="Create an entity with a render component that is set up to be lightmapped with baked direct lighting" />
       <item value="@param {number} primitive.base - The offset of the first index or vertex to dispatch in the draw call." />
@@ -48,14 +51,11 @@
       <item value="update the skybox, since this might change _meshInstances" />
       <item value="The 8 points of the camera frustum transformed to light space" />
       <item value="Frustum" />
-      <item value="used for stereo" />
-      <item value="returns number of extra draw calls to skip - used to skip auto instanced meshes draw calls. by default return 0 to not skip any additional draw calls" />
-      <item value="Constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
