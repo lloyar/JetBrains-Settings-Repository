@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coverage" />
+      <item value="set Alpha To Coverage" />
+      <item value="Render directional shadows once for each camera (will reject more than 1 attempt in this function)" />
+      <item value="Frustum" />
       <item value="@description Creates a new forward renderer object." />
       <item value="@classdesc The forward renderer render scene objects." />
       <item value="Generates and applies the lightmaps." />
@@ -47,15 +51,11 @@
       <item value="directional shadows are per camera, so get appropriate render data" />
       <item value="appropriate" />
       <item value="dispatch" />
-      <item value="Cascades" />
-      <item value="fix accessing non-existing shadow mapcamera when the light was createdapplied, but shadowmap was never initialized" />
-      <item value="heart texture's alpha channel as a cookie texture" />
-      <item value="update Clusters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
