@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@property {boolean} specularAntialias Enables Toksvig AA for mipmapped normal maps with specular." />
+      <item value="Modulates" />
       <item value="@property {number} occludeSpecular Uses ambient occlusion to darken specularreflection. It's a hack, because real specular occlusion is view-dependent. However, it can be better than nothing." />
       <item value="@property {Texture|null} clearCoatGlossMap Monochrome clear coat glossiness map (default is null). If specified, will be multiplied by normalized 'clearCoatGlossiness' value andor vertex colors." />
       <item value="@property {number} anisotropy Defines amount of anisotropy. Requires {@link StandardMaterialenableGGXSpecular} is set to true." />
@@ -49,13 +51,11 @@
       <item value="optionally clip borders when rendering" />
       <item value="prevMaterial = null; force change shader if the object uses a different variant of the same material" />
       <item value="apply visibility override" />
-      <item value="Unset meshInstance overrides back to material values if next draw call will use the same material" />
-      <item value="Revert temp frame stuff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
