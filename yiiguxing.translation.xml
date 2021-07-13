@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toneMap: the type of tone mapping being applied in the shader. See {@link ScenetoneMapping} for the list of possible values." />
+      <item value="fog: the type of fog being applied in the shader. See {@link Scenefog} for the list of possible values." />
+      <item value="forceUv1: if UV1 (second set of texture coordinates) is required in the shader. Will be declared as &quot;vUv1&quot; and passed to the fragment shader." />
+      <item value="For example, you may wish to render a depth or normal pass using textures assigned to the material, a reflection pass with simpler shaders and so on." />
+      <item value="This function will receive an object with shader generator settings (based on current material and scene properties), that you can change and then return." />
+      <item value="A custom function that will be called after all shader generator properties are collected and before shader code is generated." />
+      <item value="@property {object} chunks Object containing custom shader chunks that will replace default ones." />
+      <item value="conserving" />
+      <item value="{@link SPECULAR_BLINN}: Energy-conserving Blinn-Phong." />
+      <item value="Energy" />
+      <item value="{@link SPECULAR_PHONG}: Phong without energy conservation. You should only use it as a backwards compatibility with older projects." />
+      <item value="It is recommended that you leave this option enabled, although you may want to disable it in case when all reflection comes only from a few light sources, and you don't use an environment map, therefore having mostly black reflection." />
+      <item value="conserve Energy" />
+      <item value="specular Antialias" />
       <item value="@property {boolean} specularAntialias Enables Toksvig AA for mipmapped normal maps with specular." />
       <item value="Modulates" />
       <item value="@property {number} occludeSpecular Uses ambient occlusion to darken specularreflection. It's a hack, because real specular occlusion is view-dependent. However, it can be better than nothing." />
@@ -37,25 +51,11 @@
       <item value="@description Submits a graphical primitive to the hardware for immediate rendering." />
       <item value="prims" />
       <item value="unbind VAO from device to protect it from being changed" />
-      <item value="@description Marks the end of a block of rendering. This function should be called after a matching call to {@link GraphicsDeviceupdateBegin}. Calls to {@link GraphicsDeviceupdateBegin} and {@link GraphicsDeviceupdateEnd} must not be nested." />
-      <item value="clear texture units once a frame on desktop safari" />
-      <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched with a call to {@link GraphicsDeviceupdateEnd}. Calls to {@link GraphicsDeviceupdateBegin} and {@link GraphicsDeviceupdateEnd} must not be nested." />
-      <item value="@description Marks the beginning of a block of rendering. Internally, this function" />
-      <item value="@description Copies source render target into destination render target. Mostly used by post-effects." />
-      <item value="@description Set the active scissor rectangle on the specified device." />
-      <item value="@param {number} x - The pixel space x-coordinate of the bottom left corner of the viewport." />
-      <item value="@param {number} y - The pixel space y-coordinate of the bottom left corner of the viewport." />
-      <item value="@description Set the active rectangle for rendering on the specified device." />
-      <item value="make sure colorWrite is set to true to all channels, if you want to fully clear the target" />
-      <item value="@description Sets the specified render target on the device. If null is passed as a parameter, the back buffer becomes the current target for all rendering operations." />
-      <item value="optionally clip borders when rendering" />
-      <item value="prevMaterial = null; force change shader if the object uses a different variant of the same material" />
-      <item value="apply visibility override" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
