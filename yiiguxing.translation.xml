@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vanilla" />
+      <item value="For vanilla materials, the shader can only be set by the user" />
       <item value="@description Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="used to apply parameters from this material into scope of uniforms, called internally by forward-renderer optional list of parameter names to be set can be specified, otherwise all parameters are set" />
       <item value="@description Applies any changes made to the material's properties." />
       <item value="@function @name Materialupdate @description Applies any changes made to the material's properties." />
-      <item value="For vanilla materials, the shader can only be set by the user" />
       <item value="@property {number} slopeDepthBias Same as {@link MaterialdepthBias}, but also depends on the slope of the triangle relative to the camera." />
       <item value="@property {number} depthBias Offsets the output depth buffer value. Useful for decals to prevent z-fighting." />
       <item value="Stencil" />
@@ -50,12 +51,11 @@
       <item value="Most maps can use 3 types of input values in any combination: constant (color or number), mesh vertex colors and a texture. All enabled inputs are multiplied together." />
       <item value="It can approximate a wide variety of surface types and can simulate dynamic reflected light." />
       <item value="@classdesc A Standard material is the main, general purpose material that is most often used for rendering." />
-      <item value="force change shader if the object uses a different variant of the same material" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="286" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
