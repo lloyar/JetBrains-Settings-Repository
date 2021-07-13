@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atlas" />
+      <item value="Create an Entity with a point light component Make sure it lights both World and Front Layer" />
       <item value="A generic interface for representing an audio processing module. Examples include:" />
       <item value="vanilla" />
       <item value="For vanilla materials, the shader can only be set by the user" />
@@ -49,13 +51,11 @@
       <item value="@property {string} diffuseDetailMode Determines how the main (primary) and detail (secondary) diffuse maps are blended together. Can be:" />
       <item value="@property {boolean} diffuseTint Multiply main (primary) diffuse map andor diffuse vertex color by the constant diffuse value." />
       <item value="@property {Color} ambient The ambient color of the material. This color value is 3-component (RGB), where each component is between 0 and 1." />
-      <item value="Most maps can use 3 types of input values in any combination: constant (color or number), mesh vertex colors and a texture. All enabled inputs are multiplied together." />
-      <item value="It can approximate a wide variety of surface types and can simulate dynamic reflected light." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
