@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Morphing" />
       <item value="Coverage" />
       <item value="set Alpha To Coverage" />
       <item value="Render directional shadows once for each camera (will reject more than 1 attempt in this function)" />
@@ -50,12 +51,11 @@
       <item value="directional" />
       <item value="directional shadows are per camera, so get appropriate render data" />
       <item value="appropriate" />
-      <item value="dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
