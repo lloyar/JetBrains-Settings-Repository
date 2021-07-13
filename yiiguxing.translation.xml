@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@property {number} occludeSpecular Uses ambient occlusion to darken specularreflection. It's a hack, because real specular occlusion is view-dependent. However, it can be better than nothing." />
+      <item value="@property {Texture|null} clearCoatGlossMap Monochrome clear coat glossiness map (default is null). If specified, will be multiplied by normalized 'clearCoatGlossiness' value andor vertex colors." />
+      <item value="@property {number} anisotropy Defines amount of anisotropy. Requires {@link StandardMaterialenableGGXSpecular} is set to true." />
+      <item value="@property {boolean} enableGGXSpecular Enables GGX specular. Also enables {@link StandardMaterialanisotropy} parameter to set material anisotropy." />
+      <item value="detail" />
+      <item value="@property {string} diffuseDetailMode Determines how the main (primary) and detail (secondary) diffuse maps are blended together. Can be:" />
+      <item value="@property {boolean} diffuseTint Multiply main (primary) diffuse map andor diffuse vertex color by the constant diffuse value." />
+      <item value="@property {Color} ambient The ambient color of the material. This color value is 3-component (RGB), where each component is between 0 and 1." />
+      <item value="Most maps can use 3 types of input values in any combination: constant (color or number), mesh vertex colors and a texture. All enabled inputs are multiplied together." />
+      <item value="It can approximate a wide variety of surface types and can simulate dynamic reflected light." />
+      <item value="@classdesc A Standard material is the main, general purpose material that is most often used for rendering." />
+      <item value="force change shader if the object uses a different variant of the same material" />
       <item value="Morphing" />
       <item value="Coverage" />
       <item value="set Alpha To Coverage" />
@@ -35,27 +47,15 @@
       <item value="make sure colorWrite is set to true to all channels, if you want to fully clear the target" />
       <item value="@description Sets the specified render target on the device. If null is passed as a parameter, the back buffer becomes the current target for all rendering operations." />
       <item value="optionally clip borders when rendering" />
-      <item value="force change shader if the object uses a different variant of the same material" />
       <item value="prevMaterial = null; force change shader if the object uses a different variant of the same material" />
       <item value="apply visibility override" />
       <item value="Unset meshInstance overrides back to material values if next draw call will use the same material" />
       <item value="Revert temp frame stuff" />
-      <item value="render shadows for all local visible lights - these shadow maps are shared by all cameras" />
-      <item value="@description The shadow map is regenerated this frame and not on subsequent frames." />
-      <item value="@description The shadow map is regenerated every frame." />
-      <item value="Sort shadow casters" />
-      <item value="set basic material statesparameters" />
-      <item value="num Shadow Modes" />
-      <item value="casters" />
-      <item value="cascade" />
-      <item value="directional" />
-      <item value="directional shadows are per camera, so get appropriate render data" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
