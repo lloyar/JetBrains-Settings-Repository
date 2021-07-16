@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Client Rect" />
+      <item value="destroy Grab Pass" />
+      <item value="@param {number} h - The height of the viewport in pixels." />
+      <item value="@param {number} w - The width of the viewport in pixels." />
+      <item value="@param {number} y - The pixel space y-coordinate of the bottom left corner of the viewport." />
+      <item value="@param {number} x - The pixel space x-coordinate of the bottom left corner of the viewport." />
+      <item value="@description Set the active rectangle for rendering on the specified device." />
       <item value="@description Sets the active shader to be used during subsequent draw calls." />
       <item value="@param {number|number[]|Texture} data - The value for the specified parameter." />
       <item value="@param {string} name - The name of the parameter to set." />
@@ -44,18 +51,11 @@
       <item value="conserving" />
       <item value="{@link SPECULAR_BLINN}: Energy-conserving Blinn-Phong." />
       <item value="Energy" />
-      <item value="{@link SPECULAR_PHONG}: Phong without energy conservation. You should only use it as a backwards compatibility with older projects." />
-      <item value="It is recommended that you leave this option enabled, although you may want to disable it in case when all reflection comes only from a few light sources, and you don't use an environment map, therefore having mostly black reflection." />
-      <item value="conserve Energy" />
-      <item value="specular Antialias" />
-      <item value="@property {boolean} specularAntialias Enables Toksvig AA for mipmapped normal maps with specular." />
-      <item value="Modulates" />
-      <item value="@property {number} occludeSpecular Uses ambient occlusion to darken specularreflection. It's a hack, because real specular occlusion is view-dependent. However, it can be better than nothing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
