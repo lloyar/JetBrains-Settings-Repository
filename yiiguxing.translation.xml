@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Clears the frame buffer of the currently set render target." />
       <item value="@param {boolean} [definition.useTransformFeedback] - Specifies that this shader outputs post-VS data to a buffer." />
       <item value="@param {object} definition.attributes - Object detailing the mapping of vertex shader attribute names to semantics SEMANTIC_. This enables the engine to match vertex buffer data as inputs to the shader." />
       <item value="@description Applies any changes made to the material's properties." />
@@ -50,12 +51,11 @@
       <item value="@property {number} alphaTest The alpha test reference value to control which fragments are written to the currently active render target based on alpha value. All fragments with an alpha value of less than the alphaTest reference value will be discarded. alphaTest defaults to 0 (all fragments pass)." />
       <item value="toneMap: the type of tone mapping being applied in the shader. See {@link ScenetoneMapping} for the list of possible values." />
       <item value="fog: the type of fog being applied in the shader. See {@link Scenefog} for the list of possible values." />
-      <item value="forceUv1: if UV1 (second set of texture coordinates) is required in the shader. Will be declared as &quot;vUv1&quot; and passed to the fragment shader." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
