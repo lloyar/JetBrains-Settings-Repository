@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param {boolean} [definition.useTransformFeedback] - Specifies that this shader outputs post-VS data to a buffer." />
+      <item value="@param {object} definition.attributes - Object detailing the mapping of vertex shader attribute names to semantics SEMANTIC_. This enables the engine to match vertex buffer data as inputs to the shader." />
       <item value="@description Applies any changes made to the material's properties." />
       <item value="and {@link GraphicsDeviceupdateEnd} must not be nested." />
       <item value="Increment the revision" />
@@ -49,13 +51,11 @@
       <item value="toneMap: the type of tone mapping being applied in the shader. See {@link ScenetoneMapping} for the list of possible values." />
       <item value="fog: the type of fog being applied in the shader. See {@link Scenefog} for the list of possible values." />
       <item value="forceUv1: if UV1 (second set of texture coordinates) is required in the shader. Will be declared as &quot;vUv1&quot; and passed to the fragment shader." />
-      <item value="For example, you may wish to render a depth or normal pass using textures assigned to the material, a reflection pass with simpler shaders and so on." />
-      <item value="This function will receive an object with shader generator settings (based on current material and scene properties), that you can change and then return." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
