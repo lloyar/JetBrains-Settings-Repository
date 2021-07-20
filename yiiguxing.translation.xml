@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment the revision" />
+      <item value="@description Get (or create, if it doesn't already exist) a variable in the scope." />
       <item value="@description Sets the active shader to be used during subsequent draw calls." />
       <item value="Set the active index buffer object" />
       <item value="If the texture is not already bound on the currently active texture unit, bind it" />
@@ -49,13 +51,11 @@
       <item value="For example, you may wish to render a depth or normal pass using textures assigned to the material, a reflection pass with simpler shaders and so on." />
       <item value="This function will receive an object with shader generator settings (based on current material and scene properties), that you can change and then return." />
       <item value="A custom function that will be called after all shader generator properties are collected and before shader code is generated." />
-      <item value="@property {object} chunks Object containing custom shader chunks that will replace default ones." />
-      <item value="conserving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
