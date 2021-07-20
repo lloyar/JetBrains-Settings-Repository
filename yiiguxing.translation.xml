@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Applies any changes made to the material's properties." />
       <item value="and {@link GraphicsDeviceupdateEnd} must not be nested." />
       <item value="Increment the revision" />
       <item value="@description Get (or create, if it doesn't already exist) a variable in the scope." />
@@ -30,7 +31,6 @@
       <item value="@description Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="used to apply parameters from this material into scope of uniforms, called internally by forward-renderer optional list of parameter names to be set can be specified, otherwise all parameters are set" />
-      <item value="@description Applies any changes made to the material's properties." />
       <item value="@function @name Materialupdate @description Applies any changes made to the material's properties." />
       <item value="@property {number} slopeDepthBias Same as {@link MaterialdepthBias}, but also depends on the slope of the triangle relative to the camera." />
       <item value="@property {number} depthBias Offsets the output depth buffer value. Useful for decals to prevent z-fighting." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
