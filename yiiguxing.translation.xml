@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param {pc.Vec4} rect - (Optional) The rect of the current camera. If not specified then it will default to [0,0,1,1]." />
+      <item value="@param {pc.RenderTarget} outputTarget - The output render target. If null then this will be the screen." />
+      <item value="@description Render the post effect using the specified inputTarget to the specified outputTarget." />
+      <item value="@param {GraphicsDevice} graphicsDevice - The graphics device of the application." />
+      <item value="@classdesc Base class for all post effects. Post effects take a a render target as input apply effects to it and then render the result to an output render target or the screen if no output is specified." />
       <item value="@description Clears the frame buffer of the currently set render target." />
       <item value="@param {boolean} [definition.useTransformFeedback] - Specifies that this shader outputs post-VS data to a buffer." />
       <item value="@param {object} definition.attributes - Object detailing the mapping of vertex shader attribute names to semantics SEMANTIC_. This enables the engine to match vertex buffer data as inputs to the shader." />
@@ -46,16 +51,11 @@
       <item value="It can nicely soften edges of otherwise sharp alpha cutouts, but isn't recommended for large area semi-transparent surfaces." />
       <item value="Quality depends on the number of MSAA samples of the current render target." />
       <item value="aliasing" />
-      <item value="anti" />
-      <item value="anti-aliasing" />
-      <item value="@property {number} alphaTest The alpha test reference value to control which fragments are written to the currently active render target based on alpha value. All fragments with an alpha value of less than the alphaTest reference value will be discarded. alphaTest defaults to 0 (all fragments pass)." />
-      <item value="toneMap: the type of tone mapping being applied in the shader. See {@link ScenetoneMapping} for the list of possible values." />
-      <item value="fog: the type of fog being applied in the shader. See {@link Scenefog} for the list of possible values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
