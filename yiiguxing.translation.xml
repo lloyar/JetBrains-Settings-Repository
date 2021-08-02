@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parametric Surfaces Geometry" />
+      <item value="based on the brilliant article by @prideout https:prideout.netblogoldblogindex.html@p=44.html" />
       <item value="Calculate rational B-Spline surface point. See The NURBS Book, page 134, algorithm A4.3." />
       <item value="Property to get and set the distance between the pivot point and camera Clamped between this.distanceMin and this.distanceMax" />
       <item value="description: 'Frames the entity or scene at the start of the application.&quot;'" />
@@ -49,13 +51,11 @@
       <item value="@description Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
       <item value="used to apply parameters from this material into scope of uniforms, called internally by forward-renderer optional list of parameter names to be set can be specified, otherwise all parameters are set" />
-      <item value="@function @name Materialupdate @description Applies any changes made to the material's properties." />
-      <item value="@property {number} slopeDepthBias Same as {@link MaterialdepthBias}, but also depends on the slope of the triangle relative to the camera." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
