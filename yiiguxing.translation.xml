@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_OCCLUSIONMAP" />
       <item value="Unlit" />
       <item value="Quantized" />
       <item value="&lt;para&gt;Typical sorting for opaque objects.&lt;para&gt;" />
@@ -26,12 +27,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627900680727" />
+    <option name="lastTrimTime" value="1628406213803" />
   </component>
 </application>
