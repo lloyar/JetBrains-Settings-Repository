@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scissor" />
+      <item value="@description Set the active scissor rectangle on the specified device." />
+      <item value="@param {Vec4} [rect] - The normalized screen-space position (rect.x, rect.y) and size (rect.z, rect.w) of the rectangle. Default is [0, 0, 1, 1]." />
       <item value="Parametric Geometry" />
       <item value="Parametric Surfaces Geometry" />
       <item value="based on the brilliant article by @prideout https:prideout.netblogoldblogindex.html@p=44.html" />
@@ -9,7 +12,6 @@
       <item value="description: 'Frames the entity or scene at the start of the application.&quot;'" />
       <item value="description: 'Entity for the camera to focus on. If blank, then the camera will use the whole scene'" />
       <item value="description: 'Higher value means that the camera will continue moving after the user has stopped dragging. 0 is fully responsive.'" />
-      <item value="@description Set the active scissor rectangle on the specified device." />
       <item value="@param {Shader} shader - The shader to be used for drawing the rectangle. When calling from a custom post effect, pass the field {@link PostEffectshader}." />
       <item value="@param {VertexBuffer} vertexBuffer - The vertex buffer for the rectangle mesh. When calling from a custom post effect, pass the field {@link PostEffectvertexBuffer}." />
       <item value="@param {GraphicsDevice} device - The graphics device of the application." />
@@ -49,19 +51,17 @@
       <item value="A generic interface for representing an audio processing module. Examples include:" />
       <item value="vanilla" />
       <item value="For vanilla materials, the shader can only be set by the user" />
-      <item value="@description Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
-      <item value="Duplicates a Standard material. All properties are duplicated except textures where only the references are copied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627868926695" />
+    <option name="lastTrimTime" value="1628841211436" />
   </component>
 </application>
