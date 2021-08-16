@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description No sorting is applied. Mesh instances are rendered in the same order they were added to a layer." />
+      <item value="@description Right of view. Only used in stereo rendering." />
+      <item value="@description Left of view. Only used in stereo rendering." />
       <item value="scissor" />
       <item value="@description Set the active scissor rectangle on the specified device." />
       <item value="@param {Vec4} [rect] - The normalized screen-space position (rect.x, rect.y) and size (rect.z, rect.w) of the rectangle. Default is [0, 0, 1, 1]." />
@@ -48,14 +51,11 @@
       <item value="Minimal options for Depth and Shadow passes" />
       <item value="Atlas" />
       <item value="Create an Entity with a point light component Make sure it lights both World and Front Layer" />
-      <item value="A generic interface for representing an audio processing module. Examples include:" />
-      <item value="vanilla" />
-      <item value="For vanilla materials, the shader can only be set by the user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
