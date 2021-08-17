@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No, it's not a power of 2. Turn of mips and set wrapping to clamp to edge" />
       <item value="@description No sorting is applied. Mesh instances are rendered in the same order they were added to a layer." />
       <item value="@description Right of view. Only used in stereo rendering." />
       <item value="@description Left of view. Only used in stereo rendering." />
@@ -50,12 +51,11 @@
       <item value="variants" />
       <item value="Minimal options for Depth and Shadow passes" />
       <item value="Atlas" />
-      <item value="Create an Entity with a point light component Make sure it lights both World and Front Layer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
