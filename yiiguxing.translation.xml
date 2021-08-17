@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WebGL1 has different requirements for power of 2 images vs non power of 2 images so check if the image is a power of 2 in both dimensions." />
       <item value="No, it's not a power of 2. Turn of mips and set wrapping to clamp to edge" />
       <item value="@description No sorting is applied. Mesh instances are rendered in the same order they were added to a layer." />
       <item value="@description Right of view. Only used in stereo rendering." />
@@ -50,12 +51,11 @@
       <item value="@property {StencilParameters|null} stencilFront Stencil parameters for front faces (default is null)." />
       <item value="variants" />
       <item value="Minimal options for Depth and Shadow passes" />
-      <item value="Atlas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
