@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Transforms a 4-dimensional vector by a 4x4 matrix." />
+      <item value="@description Each element is rounded up to the next largest integer." />
+      <item value="@description Each element is rounded up or down to the nearest integer." />
       <item value="@description Sets the specified matrix to a viewing matrix derived from an eye point, a target point and an up vector. The matrix maps the target point to the negative z-axis and the eye point to the origin, so that when you use a typical projection matrix, the center of the scene maps to the center of the viewport. Similarly, the direction described by the up vector projected onto the viewing plane is mapped to the positive y-axis so that it points upward in the viewport. The up vector must not be parallel to the line of sight from the eye to the reference point." />
       <item value="@description An orthographic camera projection where the frustum shape is essentially a cuboid." />
       <item value="@description A perspective camera projection where the frustum shape is essentially pyramidal." />
@@ -48,14 +51,11 @@
       <item value="destroy Grab Pass" />
       <item value="@param {number} h - The height of the viewport in pixels." />
       <item value="@param {number} w - The width of the viewport in pixels." />
-      <item value="@param {number} y - The pixel space y-coordinate of the bottom left corner of the viewport." />
-      <item value="@param {number} x - The pixel space x-coordinate of the bottom left corner of the viewport." />
-      <item value="@description Set the active rectangle for rendering on the specified device." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
