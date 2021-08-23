@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Marks the end of a block of rendering. This function should be called after a matching call to {@link GraphicsDeviceupdateBegin}. Calls to {@link GraphicsDeviceupdateBegin} and {@link GraphicsDeviceupdateEnd} must not be nested." />
+      <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched with a call to {@link GraphicsDeviceupdateEnd}. Calls to {@link GraphicsDeviceupdateBegin}" />
+      <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched" />
       <item value="@description Sets the specified render target on the device. If null is passed as a parameter, the back buffer becomes the current target for all rendering operations." />
       <item value="WebGL1 has different requirements for power of 2 images vs non power of 2 images so check if the image is a power of 2 in both dimensions." />
       <item value="No, it's not a power of 2. Turn of mips and set wrapping to clamp to edge" />
@@ -48,20 +51,17 @@
       <item value="@param {number|number[]|Texture} data - The value for the specified parameter." />
       <item value="@param {string} name - The name of the parameter to set." />
       <item value="@description Sets a shader parameter on a material." />
-      <item value="@description Retrieves the specified shader parameter from a material." />
-      <item value="@property {StencilParameters|null} stencilFront Stencil parameters for front faces (default is null)." />
-      <item value="variants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628841211436" />
+    <option name="lastTrimTime" value="1629700214299" />
   </component>
 </application>
