@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description An orthographic camera projection where the frustum shape is essentially a cuboid." />
+      <item value="@description A perspective camera projection where the frustum shape is essentially pyramidal." />
       <item value="@description Marks the end of a block of rendering. This function should be called after a matching call to {@link GraphicsDeviceupdateBegin}. Calls to {@link GraphicsDeviceupdateBegin} and {@link GraphicsDeviceupdateEnd} must not be nested." />
       <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched with a call to {@link GraphicsDeviceupdateEnd}. Calls to {@link GraphicsDeviceupdateBegin}" />
       <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched" />
@@ -49,13 +51,11 @@
       <item value="@param {number} x - The pixel space x-coordinate of the bottom left corner of the viewport." />
       <item value="@description Set the active rectangle for rendering on the specified device." />
       <item value="@param {number|number[]|Texture} data - The value for the specified parameter." />
-      <item value="@param {string} name - The name of the parameter to set." />
-      <item value="@description Sets a shader parameter on a material." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
