@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Clamps texture coordinate to the range 0 to 1." />
+      <item value="@description Ignores the integer part of texture coordinates, using only the fractional part." />
       <item value="@description Transforms a 4-dimensional vector by a 4x4 matrix." />
       <item value="@description Each element is rounded up to the next largest integer." />
       <item value="@description Each element is rounded up or down to the nearest integer." />
@@ -49,13 +51,11 @@
       <item value="@classdesc A material determines how a particular mesh instance is rendered. It specifies the shader and render state that is set before the mesh instance is submitted to the graphics device." />
       <item value="update Client Rect" />
       <item value="destroy Grab Pass" />
-      <item value="@param {number} h - The height of the viewport in pixels." />
-      <item value="@param {number} w - The width of the viewport in pixels." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
