@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description This function reprojects textures between cubemap, equirectangular and octahedral formats. The function can read and write textures with pixel data in RGBE, RGBM, linear and sRGB formats. When specularPower is specified it will perform a phong-weighted convolution of the source (for generating a gloss maps)." />
+      <item value="read scanline width specifier" />
+      <item value="check first scanline width to determine whether the file is RLE" />
+      <item value="RGBE can't be filtered, so mipmaps are out of the question! (unless we generated them ourselves)" />
       <item value="@description Clamps texture coordinate to the range 0 to 1." />
       <item value="@description Ignores the integer part of texture coordinates, using only the fractional part." />
       <item value="@description Transforms a 4-dimensional vector by a 4x4 matrix." />
@@ -47,21 +51,17 @@
       <item value="@description Get (or create, if it doesn't already exist) a variable in the scope." />
       <item value="@description Sets the active shader to be used during subsequent draw calls." />
       <item value="Set the active index buffer object" />
-      <item value="If the texture is not already bound on the currently active texture unit, bind it" />
-      <item value="@classdesc A material determines how a particular mesh instance is rendered. It specifies the shader and render state that is set before the mesh instance is submitted to the graphics device." />
-      <item value="update Client Rect" />
-      <item value="destroy Grab Pass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629700214299" />
+    <option name="lastTrimTime" value="1630315845101" />
   </component>
 </application>
