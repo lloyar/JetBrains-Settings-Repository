@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_Exposure" />
       <item value="_OCCLUSIONMAP" />
       <item value="Unlit" />
       <item value="Quantized" />
@@ -27,12 +28,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628406213803" />
+    <option name="lastTrimTime" value="1630319048786" />
   </component>
 </application>
