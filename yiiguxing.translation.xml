@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="World" />
+      <item value="Sphere" />
+      <item value="Blend Color" />
       <item value="@description This function reprojects textures between cubemap, equirectangular and octahedral formats. The function can read and write textures with pixel data in RGBE, RGBM, linear and sRGB formats. When specularPower is specified it will perform a phong-weighted convolution of the source (for generating a gloss maps)." />
       <item value="read scanline width specifier" />
       <item value="check first scanline width to determine whether the file is RLE" />
@@ -48,20 +51,17 @@
       <item value="@description Applies any changes made to the material's properties." />
       <item value="and {@link GraphicsDeviceupdateEnd} must not be nested." />
       <item value="Increment the revision" />
-      <item value="@description Get (or create, if it doesn't already exist) a variable in the scope." />
-      <item value="@description Sets the active shader to be used during subsequent draw calls." />
-      <item value="Set the active index buffer object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630315845101" />
+    <option name="lastTrimTime" value="1631112337832" />
   </component>
 </application>
