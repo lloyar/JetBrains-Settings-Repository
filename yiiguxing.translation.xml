@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Black" />
       <item value="Tranforms vector from world space to homogenous space" />
       <item value="Transforms normal from object to world space" />
       <item value="_Exposure" />
