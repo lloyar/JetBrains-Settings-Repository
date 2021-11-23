@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Progressive" />
       <item value="rogressive Surfacemap" />
       <item value="Ratio" />
       <item value="Orbit" />
@@ -50,12 +51,11 @@
       <item value="@param {GraphicsDevice} graphicsDevice - The graphics device of the application." />
       <item value="@classdesc Base class for all post effects. Post effects take a a render target as input apply effects to it and then render the result to an output render target or the screen if no output is specified." />
       <item value="@description Clears the frame buffer of the currently set render target." />
-      <item value="@param {boolean} [definition.useTransformFeedback] - Specifies that this shader outputs post-VS data to a buffer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="368" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
