@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The lightmap to initialize the plane with." />
+      <item value="lightMap The lightmap to initialize the plane with." />
+      <item value="@param {WebGLRenderTexture} lightMap The lightmap to initialize the plane with." />
+      <item value="@param {number} res The square resolution of this object's lightMap." />
+      <item value="INTERNAL Creates the Blurring Plane" />
+      <item value="If this object is a light, simply add it to the internal scene" />
       <item value="Accumulate" />
       <item value="traverse" />
       <item value="create 8 directional lights to speed up the convergence" />
-      <item value="If this object is a light, simply add it to the internal scene" />
       <item value="Set the Previous Frame's Texture Buffer and Averaging Window" />
       <item value="randomize the lookup values to hide the fixed number of samples \" />
       <item value="Fragment Shader: Set Pixels to average in the Previous frame's Shadows" />
@@ -46,16 +51,11 @@
       <item value="@description Left of view. Only used in stereo rendering." />
       <item value="scissor" />
       <item value="@description Set the active scissor rectangle on the specified device." />
-      <item value="@param {Vec4} [rect] - The normalized screen-space position (rect.x, rect.y) and size (rect.z, rect.w) of the rectangle. Default is [0, 0, 1, 1]." />
-      <item value="Parametric Geometry" />
-      <item value="Parametric Surfaces Geometry" />
-      <item value="based on the brilliant article by @prideout https:prideout.netblogoldblogindex.html@p=44.html" />
-      <item value="Calculate rational B-Spline surface point. See The NURBS Book, page 134, algorithm A4.3." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="388" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
