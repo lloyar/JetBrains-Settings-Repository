@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accumulate" />
       <item value="traverse" />
       <item value="create 8 directional lights to speed up the convergence" />
       <item value="If this object is a light, simply add it to the internal scene" />
@@ -50,12 +51,11 @@
       <item value="Parametric Surfaces Geometry" />
       <item value="based on the brilliant article by @prideout https:prideout.netblogoldblogindex.html@p=44.html" />
       <item value="Calculate rational B-Spline surface point. See The NURBS Book, page 134, algorithm A4.3." />
-      <item value="Property to get and set the distance between the pivot point and camera Clamped between this.distanceMin and this.distanceMax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="381" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
