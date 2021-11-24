@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the Previous Frame's Texture Buffer and Averaging Window" />
       <item value="randomize the lookup values to hide the fixed number of samples \" />
       <item value="Fragment Shader: Set Pixels to average in the Previous frame's Shadows" />
       <item value="Standard" />
@@ -50,12 +51,11 @@
       <item value="description: 'Frames the entity or scene at the start of the application.&quot;'" />
       <item value="description: 'Entity for the camera to focus on. If blank, then the camera will use the whole scene'" />
       <item value="description: 'Higher value means that the camera will continue moving after the user has stopped dragging. 0 is fully responsive.'" />
-      <item value="@param {Shader} shader - The shader to be used for drawing the rectangle. When calling from a custom post effect, pass the field {@link PostEffectshader}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="377" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
