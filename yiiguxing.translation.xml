@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Set the pixel data of the texture from a canvas, image, video DOM element. If the" />
       <item value="compound bounding box for all casters, used to compute shared directional light shadow" />
       <item value="a wrapper over settings parameter specifically for realtime baked lightmaps. This handles reference counting of lightmaps and releases them when no longer referenced" />
       <item value="force using LM even if material doesn't have it" />
