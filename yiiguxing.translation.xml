@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collect nodes meshInstances for baking" />
+      <item value="Only lights with bakeDir=true will be used for generating the dominant light direction. Defaults to" />
+      <item value="dominant light direction" />
+      <item value="@param {Scene} scene - The scene to lightmap." />
       <item value="@classdesc The lightmapper is used to bake scene lights into textures." />
+      <item value="restore" />
       <item value="helper class to wrap node including its meshInstances" />
       <item value="Set the canvas to fill the window and automatically change resolution to be the same as the canvas size" />
       <item value="lightmapped" />
@@ -46,16 +51,11 @@
       <item value="@description Sets the specified matrix to a viewing matrix derived from an eye point, a target point and an up vector. The matrix maps the target point to the negative z-axis and the eye point to the origin, so that when you use a typical projection matrix, the center of the scene maps to the center of the viewport. Similarly, the direction described by the up vector projected onto the viewing plane is mapped to the positive y-axis so that it points upward in the viewport. The up vector must not be parallel to the line of sight from the eye to the reference point." />
       <item value="@description An orthographic camera projection where the frustum shape is essentially a cuboid." />
       <item value="@description A perspective camera projection where the frustum shape is essentially pyramidal." />
-      <item value="@description Marks the end of a block of rendering. This function should be called after a matching call to {@link GraphicsDeviceupdateBegin}. Calls to {@link GraphicsDeviceupdateBegin} and {@link GraphicsDeviceupdateEnd} must not be nested." />
-      <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched with a call to {@link GraphicsDeviceupdateEnd}. Calls to {@link GraphicsDeviceupdateBegin}" />
-      <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched" />
-      <item value="@description Sets the specified render target on the device. If null is passed as a parameter, the back buffer becomes the current target for all rendering operations." />
-      <item value="WebGL1 has different requirements for power of 2 images vs non power of 2 images so check if the image is a power of 2 in both dimensions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="402" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
