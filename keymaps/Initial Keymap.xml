@@ -72,6 +72,9 @@
   <action id="FocusEditor">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="Images.Thumbnails.EnterAction">
     <keyboard-shortcut first-keystroke="enter" />
   </action>

@@ -23,7 +23,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/RiderProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -35,5 +34,6 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_EDITOR_PREVIEW_ON_DOUBLE_CLICK" value="false" />
   </component>
 </application>
