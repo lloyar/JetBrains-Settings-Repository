@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@classdesc The lightmapper is used to bake scene lights into textures." />
+      <item value="helper class to wrap node including its meshInstances" />
       <item value="Set the canvas to fill the window and automatically change resolution to be the same as the canvas size" />
       <item value="lightmapped" />
       <item value="create material used to render lightmapped objects. Set it up using metalness to see the specularity" />
@@ -49,13 +51,11 @@
       <item value="@description Marks the beginning of a block of rendering. Internally, this function binds the render target currently set on the device. This function should be matched" />
       <item value="@description Sets the specified render target on the device. If null is passed as a parameter, the back buffer becomes the current target for all rendering operations." />
       <item value="WebGL1 has different requirements for power of 2 images vs non power of 2 images so check if the image is a power of 2 in both dimensions." />
-      <item value="No, it's not a power of 2. Turn of mips and set wrapping to clamp to edge" />
-      <item value="@description No sorting is applied. Mesh instances are rendered in the same order they were added to a layer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="396" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
