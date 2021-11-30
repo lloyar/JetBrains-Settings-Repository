@@ -1,73 +1,49 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="collect nodes meshInstances for baking" />
-      <item value="Only lights with bakeDir=true will be used for generating the dominant light direction. Defaults to" />
-      <item value="dominant light direction" />
-      <item value="@param {Scene} scene - The scene to lightmap." />
-      <item value="@classdesc The lightmapper is used to bake scene lights into textures." />
-      <item value="restore" />
-      <item value="helper class to wrap node including its meshInstances" />
-      <item value="Set the canvas to fill the window and automatically change resolution to be the same as the canvas size" />
-      <item value="lightmapped" />
-      <item value="create material used to render lightmapped objects. Set it up using metalness to see the specularity" />
-      <item value="@description Forces a reupload of the textures pixel data to graphics memory. Ordinarily, this function is called by internally by {@link TexturesetSource} and {@link Textureunlock}. However, it still needs to be called explicitly in the case where an HTMLVideoElement is set as the source of the texture. Normally, this is done once every frame before video textured geometry is rendered." />
-      <item value="check first scanline width to determine whether the file is RLE" />
-      <item value="The lightmap to initialize the plane with." />
-      <item value="lightMap The lightmap to initialize the plane with." />
-      <item value="@param {WebGLRenderTexture} lightMap The lightmap to initialize the plane with." />
-      <item value="@param {number} res The square resolution of this object's lightMap." />
-      <item value="INTERNAL Creates the Blurring Plane" />
-      <item value="If this object is a light, simply add it to the internal scene" />
-      <item value="Accumulate" />
-      <item value="traverse" />
-      <item value="create 8 directional lights to speed up the convergence" />
-      <item value="Set the Previous Frame's Texture Buffer and Averaging Window" />
-      <item value="randomize the lookup values to hide the fixed number of samples \" />
-      <item value="Fragment Shader: Set Pixels to average in the Previous frame's Shadows" />
-      <item value="Standard" />
-      <item value="Whether" />
-      <item value="boolean" />
-      <item value="number" />
-      <item value="Camera" />
-      <item value="Shader" />
-      <item value="Vertex" />
-      <item value="Progressive" />
-      <item value="rogressive Surfacemap" />
-      <item value="Ratio" />
-      <item value="Orbit" />
-      <item value="compatibility" />
-      <item value="World" />
-      <item value="Sphere" />
-      <item value="Blend Color" />
-      <item value="@description This function reprojects textures between cubemap, equirectangular and octahedral formats. The function can read and write textures with pixel data in RGBE, RGBM, linear and sRGB formats. When specularPower is specified it will perform a phong-weighted convolution of the source (for generating a gloss maps)." />
-      <item value="read scanline width specifier" />
-      <item value="RGBE can't be filtered, so mipmaps are out of the question! (unless we generated them ourselves)" />
-      <item value="@description Clamps texture coordinate to the range 0 to 1." />
-      <item value="@description Ignores the integer part of texture coordinates, using only the fractional part." />
-      <item value="@description Transforms a 4-dimensional vector by a 4x4 matrix." />
-      <item value="@description Each element is rounded up to the next largest integer." />
-      <item value="@description Each element is rounded up or down to the nearest integer." />
-      <item value="@description Sets the specified matrix to a viewing matrix derived from an eye point, a target point and an up vector. The matrix maps the target point to the negative z-axis and the eye point to the origin, so that when you use a typical projection matrix, the center of the scene maps to the center of the viewport. Similarly, the direction described by the up vector projected onto the viewing plane is mapped to the positive y-axis so that it points upward in the viewport. The up vector must not be parallel to the line of sight from the eye to the reference point." />
-      <item value="@description An orthographic camera projection where the frustum shape is essentially a cuboid." />
-      <item value="@description A perspective camera projection where the frustum shape is essentially pyramidal." />
+      <item value="occlusion" />
+      <item value="Black" />
+      <item value="Tranforms vector from world space to homogenous space" />
+      <item value="Transforms normal from object to world space" />
+      <item value="_Exposure" />
+      <item value="_OCCLUSIONMAP" />
+      <item value="Unlit" />
+      <item value="Quantized" />
+      <item value="&lt;para&gt;Typical sorting for opaque objects.&lt;para&gt;" />
+      <item value="Transparent objects" />
+      <item value="Opaque" />
+      <item value="Shader variable as defined in: https:docs.unity3d.comManualSL-UnityShaderVariables.html" />
+      <item value="Tell Unity how to filter the culling results, to further specify which geometry to draw Use FilteringSettings.defaultValue to specify no filtering" />
+      <item value="verbosely" />
+      <item value="implements" />
+      <item value="robust" />
+      <item value="compact" />
+      <item value="Capsule" />
+      <item value="Destructor" />
+      <item value="Utility functions" />
+      <item value="Utility" />
+      <item value="Extract compression statistics" />
+      <item value="statistics" />
+      <item value="decompression" />
+      <item value="compression" />
+      <item value="purposes" />
+      <item value="serves" />
+      <item value="uniformly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="402" />
-        <entry key="LATIN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638155151536" />
+    <option name="lastTrimTime" value="1634713590810" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
   </component>

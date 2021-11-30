@@ -38,6 +38,7 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="EditorEnter">
@@ -51,10 +52,12 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="EditorTab">
@@ -62,6 +65,7 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="FileChooser.GotoModule" />
