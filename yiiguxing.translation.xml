@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@description Get (or create, if it doesn't already exist) a variable in the scope." />
       <item value="@description Set the pixel data of the texture from a canvas, image, video DOM element. If the" />
       <item value="compound bounding box for all casters, used to compute shared directional light shadow" />
       <item value="a wrapper over settings parameter specifically for realtime baked lightmaps. This handles reference counting of lightmaps and releases them when no longer referenced" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
