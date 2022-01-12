@@ -1,0 +1,123 @@
+<keymap version="1" name="Initial Keymap">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="BraceOrQuoteOut">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="Images.Thumbnails.UpFolder">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="NavBar-cancel" />
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="NextTemplateParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PopupMenu-cancel" />
+  <action id="RiderUnitTestRemoveElementsFromSessionTwAction">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SearchEverywhere.NextTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SearchEverywhere.SelectItem">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SelectVirtualTemplateElement">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="Vcs.Log.GoToChild">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Vcs.Log.GoToParent">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+</keymap>
